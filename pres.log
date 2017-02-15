@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.6.8)  15 FEB 2017 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2016.6.8)  15 FEB 2017 16:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1153,23 +1153,30 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 160.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 160.
+LaTeX Font Info:    Try loading font information for T1+LinuxLibertineMonoT-TLF
+ on input line 160.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineMonoT-TLF.fd
+File: T1LinuxLibertineMonoT-TLF.fd 2012/12/06 (autoinst) Font definitions for T
+1/LinuxLibertineMonoT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 160.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 160.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 4.0pt on input line 160.
-
-[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-(./pres.toc
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 3.
-) [2
+(./pres.toc) [2
 
 ] (./pres.toc) [3
 
 ]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 182.
 LaTeX Font Info:    Try loading font information for TS1+LinuxBiolinumT-TLF on 
 input line 182.
 
@@ -1242,7 +1249,7 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 ] (./pres.toc) [25
 
 ]
-<./fig/example.pdf, id=797, 433.62pt x 289.08pt>
+<./fig/example.pdf, id=798, 433.62pt x 289.08pt>
 File: ./fig/example.pdf Graphic file (type pdf)
  <use ./fig/example.pdf>
 Package pdftex.def Info: ./fig/example.pdf used on input line 280.
@@ -1457,7 +1464,7 @@ Overfull \hbox (16.73634pt too wide) detected at line 520
 ] [74
 
 ]
-<./fig/normal.pdf, id=2253, 433.62pt x 289.08pt>
+<./fig/normal.pdf, id=2254, 433.62pt x 289.08pt>
 File: ./fig/normal.pdf Graphic file (type pdf)
  <use ./fig/normal.pdf>
 Package pdftex.def Info: ./fig/normal.pdf used on input line 556.
@@ -1530,14 +1537,14 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 ] [83
 
 ]
-<./fig/equivariance.pdf, id=2531, 433.62pt x 289.08pt>
+<./fig/equivariance.pdf, id=2532, 433.62pt x 289.08pt>
 File: ./fig/equivariance.pdf Graphic file (type pdf)
 
 <use ./fig/equivariance.pdf>
 Package pdftex.def Info: ./fig/equivariance.pdf used on input line 623.
 (pdftex.def)             Requested size: 134.295pt x 89.53006pt.
 
-<./fig/foliation.pdf, id=2532, 433.62pt x 289.08pt>
+<./fig/foliation.pdf, id=2533, 433.62pt x 289.08pt>
 File: ./fig/foliation.pdf Graphic file (type pdf)
  <use ./fig/foliation.pdf>
 Package pdftex.def Info: ./fig/foliation.pdf used on input line 623.
@@ -1597,22 +1604,14 @@ Overfull \vbox (6.25058pt too high) detected at line 623
 
 [87
 
-]
-File: ./fig/equivariance.pdf Graphic file (type pdf)
- <use ./fig/equivariance.pdf>
-Package pdftex.def Info: ./fig/equivariance.pdf used on input line 623.
-(pdftex.def)             Requested size: 134.295pt x 89.53006pt.
-File: ./fig/foliation.pdf Graphic file (type pdf)
- <use ./fig/foliation.pdf>
-Package pdftex.def Info: ./fig/foliation.pdf used on input line 623.
-(pdftex.def)             Requested size: 134.295pt x 89.53006pt.
+] [88
 
-Overfull \vbox (6.25058pt too high) detected at line 623
+]
+Overfull \hbox (6.43497pt too wide) detected at line 645
+[][][][][][][][][]
  []
 
-[88
-
-] [89
+[89
 
 ]
 Overfull \hbox (6.43497pt too wide) detected at line 645
@@ -1650,18 +1649,18 @@ Overfull \hbox (6.43497pt too wide) detected at line 645
 [94
 
 ]
-Overfull \hbox (6.43497pt too wide) detected at line 645
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 661.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 5.0pt on input line 661.
+
+Overfull \hbox (6.43497pt too wide) detected at line 661
 [][][][][][][][][]
  []
 
 [95
 
 ]
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 661.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 5.0pt on input line 661.
-
 Overfull \hbox (6.43497pt too wide) detected at line 661
 [][][][][][][][][]
  []
@@ -1690,16 +1689,9 @@ Overfull \hbox (6.43497pt too wide) detected at line 661
 [99
 
 ]
-Overfull \hbox (6.43497pt too wide) detected at line 661
-[][][][][][][][][]
- []
-
-[100
-
-]
 \openout4 = `pres.vrb'.
 
- (./pres.vrb) [101
+ (./pres.vrb) [100
 
 ]
 \tf@nav=\write6
@@ -1721,37 +1713,39 @@ Package rerunfilecheck Info: File `pres.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 681.
  ) 
 Here is how much of TeX's memory you used:
- 25164 strings out of 495025
- 508468 string characters out of 6181516
- 579877 words of memory out of 5000000
- 27589 multiletter control sequences out of 15000+600000
- 73872 words of font info for 64 fonts, out of 8000000 for 9000
+ 25191 strings out of 495025
+ 509418 string characters out of 6181516
+ 581170 words of memory out of 5000000
+ 27612 multiletter control sequences out of 15000+600000
+ 74492 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  58i,23n,84p,418b,1061s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/us
-r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}</usr/shar
-e/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/symbols/msbm10.pfb>
-Output written on pres.pdf (101 pages, 577900 bytes).
+r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}{/usr/shar
+e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_d6jdyt.enc}</usr/share/texl
+ive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/libertine/LinLibertineMT.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/symbols/msbm10.pfb>
+Output written on pres.pdf (100 pages, 599171 bytes).
 PDF statistics:
- 3196 PDF objects out of 3580 (max. 8388607)
- 3007 compressed objects within 31 object streams
- 206 named destinations out of 1000 (max. 500000)
+ 3170 PDF objects out of 3580 (max. 8388607)
+ 2982 compressed objects within 30 object streams
+ 204 named destinations out of 1000 (max. 500000)
  87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
